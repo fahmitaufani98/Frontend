@@ -1,2 +1,2 @@
-# Frontend
+# Frontend and backend
 internship
